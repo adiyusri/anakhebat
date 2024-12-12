@@ -521,7 +521,7 @@
 
 .landing-page-desktop .kita-menyediakan {
   position: relative;
-  width: 675px;
+  width: 835px;
   font-family: "Familjen Grotesk", Helvetica;
   font-weight: 500;
   color: #464646;
@@ -542,7 +542,7 @@
   position: absolute;
   width: 1276px;
   height: 764px;
-  top: 79px;
+  top: 69px;
   left: 0;
 }
 
@@ -683,7 +683,7 @@
   position: absolute;
   width: 1292px;
   height: 527px;
-  top: 15px;
+  top: 35px;
   left: 0;
 }
 
@@ -788,6 +788,7 @@
   letter-spacing: 0.32px;
   line-height: 28px;
   white-space: nowrap;
+  text-align: center;
 }
 
 .landing-page-desktop .spark-sparkle-4 {
